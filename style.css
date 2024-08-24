@@ -254,6 +254,7 @@ button:focus-visible {
 }
 section:nth-child(2) div.flex:nth-child(2){
   background-color: var(--sliver);
+  margin: 0;
 }
 section:nth-child(2) div.col h2{
   margin-bottom: 1em;
